@@ -5,3 +5,16 @@
 .main-img {
     max-width: 400px;
 }
+
+.text-start {
+    color: #FF7D1A;
+    font-weight: 700;
+}
+
+.display-5 {
+    font-weight: 700;
+}
+
+.descrp {
+    color: #B6BCC8;
+}
