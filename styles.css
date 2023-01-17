@@ -18,3 +18,15 @@
 .descrp {
     color: #B6BCC8;
 }
+
+.btn {
+    background-color: #FF7D1A;
+    color: #fff;
+    width: 230px;
+    display: flex;
+}
+
+.btn:hover {
+    color: #000;
+    background-color: #FFEDE0;
+}
