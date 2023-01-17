@@ -43,3 +43,21 @@
     color: #000;
     background-color: #FFEDE0;
 }
+
+.card-title {
+    font-weight: 400;
+    font-size: smaller;
+}
+
+.card-title a {
+    text-decoration: none;
+}
+
+.card-text {
+    font-weight: 400;
+    font-size: smaller;
+}
+
+.card-text a {
+    text-decoration: none;
+}
